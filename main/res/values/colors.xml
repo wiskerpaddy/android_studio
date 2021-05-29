@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--元々あった色-->
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#d81b60</color>
+    <!--元々あった色-->
+    <!--家計簿アプリで使った色(『配色アイデア手帳』p178参照)-->
+    <color name="colorCamel">#bb9861</color>
+    <color name="colorIslamBlue">#445597</color>
+    <color name="colorMagicHour">#7187b0</color>
+    <color name="colorJasmine">#68abc4</color>
+    <color name="colorAladdin">#734876</color>
+    <color name="colorArabianNights">#3a555f</color>
+    <color name="colorMoonLessNight">#2c242a</color>
+    <color name="color入道雲">#eaf4f9</color>
+    <color name="color北陸新幹線の白">#c1c4cd</color>
+    <color name="colorCosmicBlue">#002d5e</color>
+    <color name="colorVividBlue">#253893</color>
+    <color name="colorAwakeningPurple">#a22e8a</color>
+    <color name="colorEveningsky">#6c69a6</color>
+    <color name="colorSapphire">#404a95</color>
+    <color name="colorStress">#7a4e9a</color>
+    <color name="colorSaffronYellow">#f3c800</color>
+    <color name="colorVanillaiceCream">#f2d3a1</color>
+    <!--家計簿アプリで使った色-->
+
+</resources>

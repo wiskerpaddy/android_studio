@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">家計簿</string>
+    <string name="string_primNum">主番号</string>
+    <string name="string_date">日時</string>
+    <string name="string_current">XXXX年X月X日</string>
+    <string name="string_title">項目名</string>
+    <string name="string_putTitle">項目名</string>
+    <string name="string_printReserve">保存</string>
+    <string name="string_printDelete">削除</string>
+    <string name="string_printQuery">検索</string>
+    <string name="string_problems">金額</string>
+    <string name="string_putProblems">金額</string>
+    <string name="string_options">選択肢数</string>
+    <string name="string_putOptions">選択肢数</string>
+    <string name="string_printTitle"></string>
+    <string name="string_printDate"></string>
+    <string name="string_items">項目名</string>
+    <string name="string_spendMoney">金額</string>
+    <string name="string_printReserve2">保存</string>
+    <string name="string_printPrint">表示</string>
+    <string name="string_printPlease">入力してください</string>
+    <string-array name="string_findWay">
+        <item>日時</item>
+        <item>項目名</item>
+        <item>金額</item>
+    </string-array>
+</resources>
